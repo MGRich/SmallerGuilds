@@ -1,4 +1,7 @@
-/* the public select button from bd doesnt work, next update i will remove it, so be aware */
+.guild#bd-pub-li {
+    opacity: 0;
+    height: 5px !important;
+}
 .guilds-wrapper .guilds .friends-icon {
     height: 65% !important;
     width: 115% !important;
