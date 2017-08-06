@@ -122,6 +122,3 @@ body .guilds-wrapper .guilds .guilds-add {
     position: static!important;
     margin-top: 6px!important;
 }
-.guilds-wrapper .guild.guilds-add::after {
-   left: 19px!important;
-}
