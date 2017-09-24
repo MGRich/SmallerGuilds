@@ -5,4 +5,4 @@ Preview of smallerguilds:
 
 ## How to install
 Put this in your CustomCSS:
-@import(rawgit.com/MGRich/SmallerGuilds/master/smallerguilds.css)
+`@import url(rawgit.com/MGRich/SmallerGuilds/master/smallerguilds.css)`
